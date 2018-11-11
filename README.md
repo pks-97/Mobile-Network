@@ -10,5 +10,5 @@ To test the code
 
 You can also use you webcam for object detection to do that just go to detection.py code and change the following
 
-video = cv2.videoCapture("walking.avi") to video = cv2.videoCapture(0) and remove the vide writing part!. Some results of object detection using my webcam!
+video = cv2.videoCapture("walking.avi") to video = cv2.videoCapture(0) and remove the video writing part!. Some results of object detection using my webcam!
 ![alt text](https://github.com/pks-97/Mobile-Network/blob/master/test.png)
